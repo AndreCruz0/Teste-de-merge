@@ -1,5 +1,5 @@
 function DizerOla(){
-    console.log("Ola");
+    console.log("bom dia tudo bem?");
     
 }
 DizerOla()
